@@ -7,7 +7,7 @@ npm i nodemon express cookie-parser /
 npm install axios
 
 ## Run / Test
-Open cmd and add "node index.js FUNDCODE"
+Open cmd and type "node index.js FUNDCODE"
 
 ## Image
 ![alt text](https://github.com/natchanonBenz/nodejs_getNav_byFundCode/blob/main/demo/01.png?raw=true)
